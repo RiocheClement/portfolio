@@ -1,32 +1,24 @@
 {
   "projects": [
     {
-      "name": "Persona.fm",
-      "description": "A full stack Next.js application that uses the Last.FM API to show users snapshots of their listening habits.",
+      "name": "Talkin O'Bout",
+      "description": "Projet de fin de formation. Nous avons créé un site regroupant des actricles classés par thèmes où les utilisateur peuvent intéragir entre eux et avec le contenu du site.",
       "link": "https://github.com/raspberri05/persona.fm",
       "langs": "TypeScript,JavaScript,HTML,CSS,PostgreSQL-Dark",
-      "tools": "NextJS-Dark,TailwindCSS-Dark,Supabase-Dark,React-Dark,Figma-Dark,Markdown-Dark",
-      "date": "Summer 2024 - Present",
+      "tools": "TailwindCSS-Dark,React-Dark,Figma-Dark,Markdown-Dark",
+      "date": "Été 2024",
       "custom": {
-        "text": "View live site",
-        "link": "https://personafm.vercel.app"
+        "text": "Site Web",
+        "link": "https://talkinobout.com"
       }
     },
     {
-      "name": "QDev",
-      "description": "A Python CLI tool that processes a user's natural language input to generate various terminal commands that are helpful when setting up a project.",
+      "name": "Makara",
+      "description": "Projet en cours de création. J'ai eu la chance d'intégrer l'équipe de Makara Média en stage juste après le passage de mon titre professionnel. Ce projet a pour but de faciliter la communication des entrepreuneurs et des particuliers sur les réseaux sociaux, avec l'aide de l'intelligence artificielle s'il le souhaite.  ",
       "link": "https://github.com/raspberri05/qdev",
-      "date": "Fall 2024 - Present",
-      "langs": "Python-Dark,Bash-Dark",
-      "tools": "FastAPI"
-    },
-    {
-      "name": "ChairSense",
-      "description": "For wheelchair users, it can be hard to see what's behind the chair, especially when backing up or turning, which can be dangerous because there is a high potential to hit an object or person. The aim of this project is to solve that problem by creating a low-cost device that can detect obstacles and warn the wheelchair user so they don't hit objects or people.",
-      "link": "https://github.com/raspberri05/chairSense",
-      "langs": "CPP",
-      "tools": "Arduino",
-      "date": "Fall 2021"
+      "date": "Septembre 2024 - Aujourd'hui",
+      "langs": "TypeScript,JavaScript,HTML,CSS,PostgreSQL-Dark",
+      "tools": "TailwindCSS-Dark,React-Dark,Figma-Dark,Markdown-Dark"
     }
   ]
 }
